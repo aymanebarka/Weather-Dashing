@@ -1,8 +1,6 @@
 # Weather-Dashing
 
-##Preview 
-
-![Preview](https://nsa40.casimages.com/img/2021/02/08/21020801343490058.png)
+https://nsa40.casimages.com/img/2021/02/11/210211055724260884.png
 
 ## Description
 Dashing/Smashing widget displaying current weather in your city.
