@@ -13,6 +13,7 @@ gem 'json'
 Run `bundle install`
 
 ## Usage
+To use the OpenweatherMap API, you need to obtain an API key. Sign up [here](https://home.openweathermap.org/users/sign_up).
 
 To install this widget into you dashboard, add files weather.html, weather.scss and weather.coffee in widgets/weather/ and weather.rb in jobs/
 
